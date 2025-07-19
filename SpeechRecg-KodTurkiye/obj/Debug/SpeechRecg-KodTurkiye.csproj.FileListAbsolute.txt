@@ -1,0 +1,17 @@
+C:\Users\Wee\Desktop\Kod Türkiye\SpeechRecognition\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\bin\Debug\SpeechRecg-KodTurkiye.exe
+C:\Users\Wee\Desktop\Kod Türkiye\SpeechRecognition\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\bin\Debug\SpeechRecg-KodTurkiye.pdb
+C:\Users\Wee\Desktop\Kod Türkiye\SpeechRecognition\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg-KodTurkiye.csprojResolveAssemblyReference.cache
+C:\Users\Wee\Desktop\Kod Türkiye\SpeechRecognition\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg_KodTurkiye.Form1.resources
+C:\Users\Wee\Desktop\Kod Türkiye\SpeechRecognition\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg_KodTurkiye.Properties.Resources.resources
+C:\Users\Wee\Desktop\Kod Türkiye\SpeechRecognition\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg-KodTurkiye.csproj.GenerateResource.Cache
+C:\Users\Wee\Desktop\Kod Türkiye\SpeechRecognition\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg-KodTurkiye.exe
+C:\Users\Wee\Desktop\Kod Türkiye\SpeechRecognition\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg-KodTurkiye.pdb
+D:\aaaaaaa333333333\masaustuuuuuuu\tez_odevim\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg-KodTurkiye.csprojResolveAssemblyReference.cache
+D:\aaaaaaa333333333\masaustuuuuuuu\tez_odevim\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg_KodTurkiye.Form1.resources
+D:\aaaaaaa333333333\masaustuuuuuuu\tez_odevim\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg-KodTurkiye.csproj.GenerateResource.Cache
+D:\aaaaaaa333333333\masaustuuuuuuu\tez_odevim\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg-KodTurkiye.csproj.CoreCompileInputs.cache
+D:\aaaaaaa333333333\masaustuuuuuuu\tez_odevim\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\bin\Debug\SpeechRecg-halit.exe
+D:\aaaaaaa333333333\masaustuuuuuuu\tez_odevim\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\bin\Debug\SpeechRecg-halit.pdb
+D:\aaaaaaa333333333\masaustuuuuuuu\tez_odevim\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg_halit.Properties.Resources.resources
+D:\aaaaaaa333333333\masaustuuuuuuu\tez_odevim\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg-halit.exe
+D:\aaaaaaa333333333\masaustuuuuuuu\tez_odevim\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\SpeechRecg-KodTurkiye\obj\Debug\SpeechRecg-halit.pdb
